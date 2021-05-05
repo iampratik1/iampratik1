@@ -42,7 +42,7 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampratik1&theme=radicallangs_count=8)](https://github.com/iampratik1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampratik1&theme=radical&langs_count=8)](https://github.com/iampratik1/github-readme-stats)
 <img align="right" src ="https://github-readme-stats.vercel.app/api?username=iampratik1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
