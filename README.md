@@ -1,3 +1,12 @@
+[![Twitter: Pratiknarayan1](https://img.shields.io/twitter/follow/pratiknarayan1?style=social)](https://twitter.com/pratiknarayan1)
+[![Instagram: Pratik__9](https://img.shields.io/instagram/followers/pratik__9?label=follow&logo=instagram&style=social)](https://instagram.com/pratik__9/)
+
+                        
+
+[![Linkedin: Pratik narayan](https://img.shields.io/badge/-PratikNarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-narayan-b49141202/)](https://www.linkedin.com/in/pratik-narayan-b49141202/)
+[![GitHub iampratik1](https://img.shields.io/github/followers/iampratik1?label=follow&style=social)](https://github.com/iampratik1)
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://tricallyweb.in)
+
 ### Hi. I am Pratik Narayan 👋
 
 - 🔭 I’m currently working as a freelancer
