@@ -1,5 +1,5 @@
-[![Twitter: Pratiknarayan1](https://img.shields.io/twitter/follow/pratiknarayan1?style=social)](https://twitter.com/pratiknarayan1)
-[![Instagram: Pratik__9](https://img.shields.io/instagram/followers/pratik__9?label=follow&logo=instagram&style=social)
+<a href="https://twitter.com/iampratik2021" ><img src="https://img.shields.io/twitter/follow/iampratik2021.svg?style=social" /> </a>
+[![Instagram Badge](https://img.shields.io/badge/-@pratik__9-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/pratik__9/)](https://instagram.com/pratik__9)
 
 [![Linkedin: Pratik narayan](https://img.shields.io/badge/-PratikNarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-narayan-b49141202/)](https://www.linkedin.com/in/pratik-narayan-b49141202/)
 [![GitHub iampratik1](https://img.shields.io/github/followers/iampratik1?label=follow&style=social)](https://github.com/iampratik1)
