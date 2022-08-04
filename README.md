@@ -3,7 +3,7 @@
 
 [![Linkedin: Pratik narayan](https://img.shields.io/badge/-PratikNarayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-narayan/)](https://www.linkedin.com/in/pratik-narayan/)
 [![GitHub iampratik1](https://img.shields.io/github/followers/iampratik1?label=follow&style=social)](https://github.com/iampratik1)
-[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://tricallyweb.in)
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://pratiknarayanportfolio.netlify.app/)
 
 
 ### Hi. I am Pratik Narayan 👋
